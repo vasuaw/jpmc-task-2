@@ -8,6 +8,7 @@ import './Graph.css';
  */
 interface IProps {
   data: ServerRespond[],
+  showGraph: boolean,
 }
 
 /**
